@@ -19,10 +19,28 @@ This Blender Python script simulates a combination of **rigid debris** and **sem
 ## Usage
 
 1. Open Blender.
-2. Open a new **Text Editor** window and paste the Python script.
-3. Press **Run Script** to set up the scene.
-4. Press **Spacebar** in the 3D Viewport to play the physics simulation.
-5. Optionally, **bake the rigid body cache** for consistent playback:
+2. Open a **Scripting** window
+   <img width="340" height="104" alt="Screenshot 2025-09-23 001024" src="https://github.com/user-attachments/assets/65e1f77a-3eb4-4d08-8616-f856aceb8c4f" />
+
+
+
+
+3. click on new text paste the Python script provided as code.py .
+   <img width="1919" height="998" alt="Screenshot 2025-09-23 001045" src="https://github.com/user-attachments/assets/cf99c7eb-a324-4f6c-bea2-e9920aa39d39" />
+
+
+
+
+4. Press **Run Script** to set up the scene.
+   <img width="1919" height="996" alt="Screenshot 2025-09-23 001056" src="https://github.com/user-attachments/assets/4ac774b3-3c82-4d43-9724-ee8d8ebb25b0" />
+
+
+
+
+5. Press **Spacebar** in the 3D Viewport to play the physics simulation.
+   <img width="1919" height="991" alt="Screenshot 2025-09-23 001103" src="https://github.com/user-attachments/assets/97ea8903-9720-4572-bad6-1e5472d5ddef" />
+
+
 
    * Go to **Scene Properties → Rigid Body World → Cache**
    * Click **Bake**
