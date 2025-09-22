@@ -53,10 +53,4 @@ These settings control the physics behavior of both types of debris and the spri
 * The blue "thread-like" lines in the 3D viewport indicate **spring constraints**.
 * The script automatically ensures a **Rigid Body World** is present.
 
-## Author
 
-**Shivakant Kurmi**
-
-## License
-
-This project is licensed under the MIT License.
